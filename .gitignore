@@ -1,0 +1,6 @@
+build/
+dist/
+temp_audio/
+config.json
+*.mp3
+*.spec
