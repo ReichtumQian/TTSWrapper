@@ -1,5 +1,6 @@
 build/
 dist/
+bin/
 temp_audio/
 config.json
 *.mp3
